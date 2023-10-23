@@ -21,9 +21,9 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### After Entring Name and Email address 😩😧
 
-![Alt text](Screenshot-3.png)
+![Alt text](./screenshots/Screenshot-3.png)
 
-![Alt text](Screenshot-4.png)
+![Alt text](./screenshots/Screenshot-4.png)
 
 ![Alt text](Screenshot-1.png)
 
