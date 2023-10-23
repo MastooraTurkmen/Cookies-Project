@@ -28,3 +28,10 @@ Head over to https://vitejs.dev/ to learn more about using vite
 ![Alt text](./screenshots/Screenshot-1.png)
 
 ![Alt text](./screenshots/Screenshot-2.png)
+
+------
+
+
+## Launguages and Tools are used
+
+
