@@ -38,5 +38,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
     + [HTML](https://github.com/topics/html)
     + [CSS](https://github.com/topics/css)
     + [React](https://github.com/topics/react)
+    + [JavaScript](https://github.com/topics/javascript)
 
 
