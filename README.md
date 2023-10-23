@@ -15,9 +15,9 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ### Before Entring Name and Email address 😒😯
 
-![Alt text](Screenshot-01.png)
+![Alt text](./screenshots/Screenshot-01.png)
 
-![Alt text](Screenshot-02.png)
+![Alt text](./screenshots/Screenshot-02.png)
 
 ### After Entring Name and Email address 😩😧
 
