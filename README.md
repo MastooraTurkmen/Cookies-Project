@@ -1,5 +1,7 @@
 # Cookies Project
 
+https://cookies-site-project.netlify.app/
+
 Quick start:
 
 ```
@@ -11,13 +13,13 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Screenshots
 
-### Before Entring Name and Email address
+### Before Entring Name and Email address 😒😯
 
 ![Alt text](Screenshot-01.png)
 
 ![Alt text](Screenshot-02.png)
 
-### After Entring Name and Email address
+### After Entring Name and Email address 😩😧
 
 ![Alt text](Screenshot-3.png)
 
