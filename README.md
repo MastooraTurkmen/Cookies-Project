@@ -37,6 +37,7 @@ Head over to https://vitejs.dev/ to learn more about using vite
 1. **Languages**
     + [HTML](https://github.com/topics/html)
     + [CSS](https://github.com/topics/css)
+    + [CSS3](https://github.com/topics/css3)
     + [React](https://github.com/topics/react)
     + [JavaScript](https://github.com/topics/javascript)
 
