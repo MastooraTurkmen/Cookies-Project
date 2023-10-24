@@ -58,5 +58,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 # Clone this repository
 $ gh repo clone MastooraTurkmen/Cookies-Project
 
-
+# Go inside the repository
+$ cd cookies-project
 ```
