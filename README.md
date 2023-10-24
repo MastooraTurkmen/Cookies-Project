@@ -42,5 +42,6 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 2. **Tools** 
     + [Chrome](https://github.com/topics/chrome)
+    + [VSCode](https://github.com/topics/vscode)
 
 
