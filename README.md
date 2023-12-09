@@ -1,25 +1,19 @@
 # Cookies Project
 
+This is a very funny cookie project, which is so annoying and disturbing. 
+
 https://cookies-site-project.netlify.app/
 
-Quick start:
-
-```
-$ npm install
-$ npm start
-```
-
-Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Screenshots
 
-### Before Entring Name and Email address 😒😯
+### Before Entering Name and Email address 😒😯
 
 ![Alt text](./screenshots/Screenshot-01.png)
 
 ![Alt text](./screenshots/Screenshot-02.png)
 
-### After Entring Name and Email address 😩😧
+### After Entering Name and Email address 😩😧
 
 ![Alt text](./screenshots/Screenshot-3.png)
 
@@ -64,9 +58,10 @@ $ cd cookies-project
 
 
 ## Deployment📥
-1. How to deploy our project to netlify site?
+
+1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
-3. Go to Netlify site and select Add a new site.
+3. Go to the Netlify site and select Add a new site.
 4. From there select **_Deploy with Github_**.
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Cookies-Project_** and then select the **_Deploy Cookies-Project_** Button.
